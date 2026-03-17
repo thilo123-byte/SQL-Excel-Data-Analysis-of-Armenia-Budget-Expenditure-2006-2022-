@@ -71,3 +71,9 @@ This project demonstrates how SQL and Excel can be combined to perform time seri
 
 ## Author
 - Nkosinathi Hlophe
+
+Download full Budget Analysis here:
+[Armenia_Budget_Analysis.xlsx](https://github.com/user-attachments/files/26046814/Armenia_Budget_Analysis.xlsx)
+
+Here is the main Year-over-year plot of the data:
+![Yearly_Spend][Charts/Yearly_Spend_2006-2022.png]
